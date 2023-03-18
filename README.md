@@ -1,5 +1,5 @@
 
-<h1>Foodieeats React Website</h1>
+<h1>Foodie Eats React Website</h1>
 
 
 <h2>Description</h2>
