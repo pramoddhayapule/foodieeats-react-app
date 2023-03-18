@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodieeats-react-app/static/css/main.2c7d0059.css",
+    "main.js": "/foodieeats-react-app/static/js/main.13796b2a.js",
+    "index.html": "/foodieeats-react-app/index.html",
+    "main.2c7d0059.css.map": "/foodieeats-react-app/static/css/main.2c7d0059.css.map",
+    "main.13796b2a.js.map": "/foodieeats-react-app/static/js/main.13796b2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7d0059.css",
+    "static/js/main.13796b2a.js"
+  ]
+}
